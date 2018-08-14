@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2018-08-14T10:44:13.915+09:00
+  initializedAtString: 2018-08-14T10:27:51.245+09:00
+  log:
+  - commitID: 4298ba3e5de47c58266bf7ebc249a738b103088a
+    mergeA: 
+    mergeB: 
+    authorName: Yudai
+    authorEmail: 40430090+Yudai915@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2018-08-14T09:47:48.000+09:00
+    commitTimeString: 2018-08-14T09:47:48.000+09:00
+    changes:
+    - path: README.md
+      fullPath: C:\MyLibrary\Project\New-TD-for-Unity\README.md
+      projectPath: README.md
+      originalPath: 
+      status: 4
+      staged: 0
