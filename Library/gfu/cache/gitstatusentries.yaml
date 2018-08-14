@@ -12,6 +12,84 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-08-14T10:44:14.567+09:00
-  initializedAtString: 2018-08-14T10:26:48.342+09:00
-  entries: []
+  lastUpdatedAtString: 2018-08-14T11:01:25.223+09:00
+  initializedAtString: 2018-08-14T11:01:25.223+09:00
+  entries:
+  - path: Library\CurrentLayout.dwlt
+    fullPath: C:\MyLibrary\Project\New-TD-for-Unity\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: C:\MyLibrary\Project\New-TD-for-Unity\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\expandedItems
+    fullPath: C:\MyLibrary\Project\New-TD-for-Unity\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\MyLibrary\Project\New-TD-for-Unity\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\MyLibrary\Project\New-TD-for-Unity\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\MyLibrary\Project\New-TD-for-Unity\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\MyLibrary\Project\New-TD-for-Unity\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\MyLibrary\Project\New-TD-for-Unity\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\MyLibrary\Project\New-TD-for-Unity\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp\UnityLockfile
+    fullPath: C:\MyLibrary\Project\New-TD-for-Unity\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-8bcaebe4de1b4ac4187183ff733dc6bb
+    fullPath: C:\MyLibrary\Project\New-TD-for-Unity\Temp\UnityTempFile-8bcaebe4de1b4ac4187183ff733dc6bb
+    projectPath: Temp\UnityTempFile-8bcaebe4de1b4ac4187183ff733dc6bb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-edc65da654b610c4c94b023516ec57a2
+    fullPath: C:\MyLibrary\Project\New-TD-for-Unity\Temp\UnityTempFile-edc65da654b610c4c94b023516ec57a2
+    projectPath: Temp\UnityTempFile-edc65da654b610c4c94b023516ec57a2
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-f3a24aeb92256e64ea9f3293d682a8fa
+    fullPath: C:\MyLibrary\Project\New-TD-for-Unity\Temp\UnityTempFile-f3a24aeb92256e64ea9f3293d682a8fa
+    projectPath: Temp\UnityTempFile-f3a24aeb92256e64ea9f3293d682a8fa
+    originalPath: 
+    status: 1
+    staged: 0
